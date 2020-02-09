@@ -1,11 +1,11 @@
 # radio telescope
-Welcome! This drive contains 
+Welcome! This repository contains 
 stuffs related to the Radio-
 Telescope Project.
 
 For convenience, it's organized
-into subfolders viz,literature
-and code.'Literature' contains 
+into subfolders viz,Literature
+and Code.'Literature' contains 
 info pertaining antenna,RTL-SDR
  and electronics.
 
