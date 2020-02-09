@@ -1,0 +1,13 @@
+Working with IQ data in Python
+******************************
+The data received by the rtl
+dongle is saved as binary files.
+The actual waveform of the signal 
+is complex and is called IQ format.
+Inorder to derive meaningful data
+from the binary file ,we need to
+implement some routines in C/C++/python.
+
+http://witestlab.poly.edu/~ffund/el9043/labs/lab1.html
+This page has some contents related to
+python routines.
