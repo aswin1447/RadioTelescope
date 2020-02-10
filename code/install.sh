@@ -45,7 +45,7 @@ cd /etc/modprobe.d
 sudo touch blacklist-rtl.conf
 
 
-sudo echo "blacklist dvb_usb_rtl28xxu" >> /etc/modprobe.d/blacklist-rtl.conf
+sudo echo "blacklist dvb_usb_rtl28xxu" | sudo tee /etc/modprobe.d/blacklist-rtl.conf
 
 echo "restart your machine"
 
